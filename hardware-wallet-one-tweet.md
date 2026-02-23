@@ -1,0 +1,1 @@
+One-tweet comparison (2026): If you want max security + long-term holdings, pick a fully open-source hardware wallet with secure element + passphrase support; if you want best UX, choose the one with strongest mobile flow and clear transaction simulation. Non-negotiables: firmware transparency, blind-signing warnings, and reliable recovery process.
